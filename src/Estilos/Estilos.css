@@ -1,0 +1,62 @@
+.active {
+    color: deeppink;
+    font-size: 2em;
+}
+
+.no-active {
+    color: brown;
+    font-size: 1em;
+}
+
+.barra {
+    background-color: lightgoldenrodyellow;
+    text-align: right;
+    padding-right: 50px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.imagen-barra{
+    height: 50px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+
+.div-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen-home {
+    width: 500px;
+    height: 500px;
+}
+
+.div-pokemones {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-detalles-pokemon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.texto-pokemones{
+    text-align: justify;
+}
+
+.foto-pokemon{
+    width: 400px;
+    height: 400px;
+}
+.div-links{
+   margin-left: auto;
+}
