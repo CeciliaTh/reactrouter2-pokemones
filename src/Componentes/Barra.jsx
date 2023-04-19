@@ -13,7 +13,7 @@ export default function Barra() {
                 
            
                <div className='div-links'>
-               <NavLink className={setActiveClass} to="/home">
+               <NavLink className={setActiveClass} to="/">
                 Inicio
             </NavLink>
             {" - "}
