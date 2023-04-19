@@ -13,9 +13,7 @@ export default function Barra() {
                 
            
                <div className='div-links'>
-            <NavLink className={setActiveClass} to="/">
-                Home
-            </NavLink>
+    
             {" - "}
             <NavLink className={setActiveClass} to="/pokemones">
                 Pokemones

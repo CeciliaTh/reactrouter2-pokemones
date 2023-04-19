@@ -1,7 +1,7 @@
 import "./Estilos/Estilos.css";
 
 import Barra from "./Componentes/Barra.jsx"
-import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from "./Views/Home.jsx";
